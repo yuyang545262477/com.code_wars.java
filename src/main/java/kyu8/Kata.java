@@ -1,3 +1,4 @@
+package kyu8;
 
 public class Kata {
     public static int[] digitize(long n) {

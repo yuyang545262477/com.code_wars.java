@@ -1,3 +1,4 @@
+import kyu8.RemoveChars;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

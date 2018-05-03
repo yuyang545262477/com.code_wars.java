@@ -1,3 +1,4 @@
+import kyu8.Counter;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
