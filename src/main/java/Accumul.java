@@ -1,5 +1,5 @@
-public class Accumul {
-    public static String accum(String s) {
+class Accumul {
+    static String accum(String s) {
         StringBuilder backString = new StringBuilder();
         for (int i = 0; i < s.length(); i++) {
             String temp_Up = s.substring(i, i + 1).toUpperCase();
